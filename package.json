@@ -1,5 +1,9 @@
 {
   "dependencies": {
-    "express": "^5.1.0"
+    "cors": "^2.8.5",
+    "express": "^5.2.1",
+    "mongo": "^0.1.0",
+    "mongoos": "^0.0.1-security",
+    "mongoose": "^9.0.0"
   }
 }
