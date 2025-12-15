@@ -1,0 +1,7 @@
+nohup: ignoring input
+ Mongoose installed version: 9.0.0
+Server2k25
+BOOKS Model { bookmodel }
+ Connection successful to ${MONG_URI}
+Current Mongoose version: ${mongoose.version}
+✅ Server running on port 5000
