@@ -65,3 +65,32 @@ src/components/Delete_Book.js
   Line 27:7:  React Hook useEffect has a missing dependency: 'state.length'. Either include it or remove the dependency array  react-hooks/exhaustive-deps
 
 webpack compiled with 1 warning
+Compiling...
+Compiled with warnings.
+
+[eslint] 
+src/App.js
+  Line 29:36:  Imported JSX component Book_Form must be in PascalCase or SCREAMING_SNAKE_CASE        react/jsx-pascal-case
+  Line 31:10:  Imported JSX component Book_UpDateForm must be in PascalCase or SCREAMING_SNAKE_CASE  react/jsx-pascal-case
+
+src/components/BookUpdate.js
+  Line 37:4:  React Hook useEffect has a missing dependency: 'params.id'. Either include it or remove the dependency array  react-hooks/exhaustive-deps
+
+src/components/Delete_Book.js
+  Line 27:7:  React Hook useEffect has a missing dependency: 'state.length'. Either include it or remove the dependency array  react-hooks/exhaustive-deps
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+WARNING in [eslint] 
+src/App.js
+  Line 29:36:  Imported JSX component Book_Form must be in PascalCase or SCREAMING_SNAKE_CASE        react/jsx-pascal-case
+  Line 31:10:  Imported JSX component Book_UpDateForm must be in PascalCase or SCREAMING_SNAKE_CASE  react/jsx-pascal-case
+
+src/components/BookUpdate.js
+  Line 37:4:  React Hook useEffect has a missing dependency: 'params.id'. Either include it or remove the dependency array  react-hooks/exhaustive-deps
+
+src/components/Delete_Book.js
+  Line 27:7:  React Hook useEffect has a missing dependency: 'state.length'. Either include it or remove the dependency array  react-hooks/exhaustive-deps
+
+webpack compiled with 1 warning
